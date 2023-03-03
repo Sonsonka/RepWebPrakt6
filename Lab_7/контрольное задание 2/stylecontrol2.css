@@ -1,0 +1,111 @@
+#shapka{
+   background-image: url(shapka_div.jpg);
+   height: 193px;
+   width: 100%;
+}
+#conteiner{
+    width: 100%;
+    margin: 0 auto;
+}
+#menu{
+    width: 25%;
+    background-color: #CCFFFF;
+    height: 900px;
+    float: left;
+}
+#blue{
+    color: #0000cc; 
+    font-family: Tahoma}
+#blue_2{
+    color: #3366FF; 
+    font-family: Tahoma}
+#brown{
+    color: #996633; 
+    font-family: Times}
+#brown_2{
+    color: #cc6600; 
+    font-family: Times}
+
+a:link{
+    color: #3366FF;
+     text-decoration: none
+    }
+a:visited{
+    color:#0000cc;
+     text-decoration: none
+    }
+a:hover
+{color:#FF9933; 
+    text-decoration: underline
+}
+#main{
+    background-image: url(fon9.jpg);
+    width: 75%;
+    height: 900px;
+    float: left;
+}
+#h1 {
+    text-align: left; 
+    color: navy; 
+    font-family: Verdana; 
+    font-size: 20pt; 
+    font-weight: bold;
+    margin-top: 10px ;
+}
+#h2 {text-align: left; 
+    color: navy; 
+    font-family: Verdana; 
+    font-size: 16pt}
+#page {text-align: justify; 
+    color: #191970; 
+    font-family: Verdana; 
+    font-size: 12pt; 
+    margin-top: 25px;}
+#cottege_1{
+    position: relative;
+    background-image: url(cottege_1.jpg);
+    width: 245px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+#cottege_2{
+    position: absolute;
+    background-image: url(cottege_2.jpg);
+    width: 250px;
+    height: 150px;
+    margin-top: 45px;
+    margin-left: 205px;
+}
+#cottege_3{
+    position: absolute;
+    background-image: url(cottege_3.jpg);
+    width: 271px;
+    height: 150px;
+    margin-top: 45px;
+    margin-left: 205px;
+}
+#cottege_4{
+    position: absolute;
+    background-image: url(cottege_4.jpg);
+    width: 240px;
+    height: 150px;
+    margin-top: 220px;
+    margin-left: 15px;
+}
+#cottege_5{
+    position: absolute;
+    background-image: url(cottege_5.jpg);
+    width: 228px;
+    height: 150px;
+    margin-top: 55px;
+    margin-left: 215px;
+}
+#cottege_6{
+    position: absolute;
+    background-image: url(cottege_6.jpg);
+    width: 200px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 205px;
+}

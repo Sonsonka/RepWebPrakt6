@@ -1,0 +1,64 @@
+#shapka{
+    background-image: url(shapka_div.jpg);
+    height: 193px;
+    width: 100%;
+ }
+ #conteiner{
+     width: 100%;
+     margin: 0 auto;
+ }
+ #menu{
+     width: 25%;
+     background-color: #CCFFFF;
+     height: 1200px;
+     float: left;
+ }
+ #blue{
+     color: #0000cc; 
+     font-family: Tahoma}
+ #blue_2{
+     color: #3366FF; 
+     font-family: Tahoma}
+ #brown{
+     color: #996633; 
+     font-family: Times}
+ #brown_2{
+     color: #cc6600; 
+     font-family: Times}
+ 
+ a:link{
+     color: #3366FF;
+      text-decoration: none
+     }
+ a:visited{
+     color:#0000cc;
+      text-decoration: none
+     }
+ a:hover
+ {color:#FF9933; 
+     text-decoration: underline
+ }
+ #main{
+     background: white;
+     width: 75%;
+     height: 900px;
+     float: left;
+ }
+ #h1 {
+     text-align: left; 
+     color: navy; 
+     font-family: Verdana; 
+     font-size: 20pt; 
+     font-weight: bold;
+     margin-top: 10px ;
+ }
+ #page {text-align: justify; 
+     color: #191970; 
+     font-family: Verdana; 
+     font-size: 12pt; 
+     margin-top: 25px;}
+h1{text-align: center; color: black; font-family: Verdana}
+p{text-align: center; color: black; font-family: Verdana; font-size: 10pt; font-weight: bold}
+tr.text{text-align: left; color: black; font-family: Verdana; font-size: 10pt}
+td.desc{background: #FFE4E1}
+td{width: 30pt; height: 30pt}
